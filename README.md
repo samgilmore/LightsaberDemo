@@ -14,7 +14,7 @@ The following items are included in this repository:
 - Demo Video: A short video showcasing the project running.
 
 ## Video and APK Links
-- Demo Video: [Watch the Demo on YouTube](https://youtube.com/shorts/HbbpqHEmM_0?si=f599TGkBapGeM7uc)
+- Demo Video: [Watch the Demo on YouTube](https://www.youtube.com/watch?v=pHlniaVV09k)
 
 ## Credits
 All assets, scripts, and features in this project were developed independently.
